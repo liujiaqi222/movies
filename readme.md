@@ -2,7 +2,7 @@
 
 豆瓣Top250电影展示 + 搜索功能
 
-在线体验：[https://jiaqicoder.com/moives/](https://jiaqicoder.com/movies/)
+在线体验：[https://jiaqicoder.com/movies/](https://jiaqicoder.com/movies/)
 
 ## 🧐 feature
 
